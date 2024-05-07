@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning SoftwareDesign, web and database
+- 😊 It would be my pleasure if my code would help you
+- 📫 How to reach me: 1228428816@qq.com
 
 <!--
 **cdt3211/cdt3211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
