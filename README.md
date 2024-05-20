@@ -1,10 +1,14 @@
 ### Hi there 👋
-- 🌱 I’m currently learning SoftwareDesign, web and database
-- 😊 It would be my pleasure if my code would help you
-- 📫 How to reach me: 1228428816@qq.com
+An idealist
+
+[🌐 Website](https://cdt3211.top) · [📚 Blog](https://blog.cdt3211.top) · [📇 Contact](mailto:tiankong089@gmail.com)
+### Tech Stack
+![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,vue)
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdt3211&show_icons=true&theme=buefy&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cdt3211&layout=compact&theme=buefy&hide_border=true)|
 | ------------- | ------------- |
+
+
 
 <!--
 **cdt3211/cdt3211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
