@@ -1,7 +1,7 @@
 ### Hi there 👋
 An idealist
 
- [✍🏻 Blog](https://cdt3211.top) · [📧 Contact](mailto:tiankong089@gmail.com)
+ [✍🏻 Blog](https://cdt3211.top) · [📧 Contact](mailto:abner3211@foxmail.com)
 ### Tech Stack
 ![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)
 
