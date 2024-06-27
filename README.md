@@ -3,7 +3,7 @@ An idealist
 
  [✍🏻 Blog](https://cdt3211.top) · [📧 Contact](mailto:tiankong089@gmail.com)
 ### Tech Stack
-![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,vue)
+![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdt3211&show_icons=true&theme=buefy&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cdt3211&layout=compact&theme=buefy&hide_border=true)|
 | ------------- | ------------- |
