@@ -1,9 +1,9 @@
-### Hi there 👋
-An idealist
+### Welcome to my page! 👋
+*Where the heart leads, I ask not of east or west.*
 
  [✍🏻 Blog](https://blog.luckyabner.top) · [📧 Contact](mailto:luckyabner@foxmail.com)
 ### Tech Stack
-![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react,next)
+![](https://skillicons.dev/icons?i=c,css,html,java,js,ts,linux,py,mysql,react,next)
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyabner&show_icons=true&theme=buefy&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyabner&layout=compact&theme=buefy&hide_border=true)|
 | ------------- | ------------- |
