@@ -1,5 +1,5 @@
 ### Welcome to my page! 👋
-*Where the heart leads, I ask not of east or west*
+*Where the heart leads, I ask not of east or west.*
 
  [✍🏻 Blog](https://blog.luckyabner.top) · [📧 Contact](mailto:luckyabner@foxmail.com)
 ### Tech Stack
