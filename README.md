@@ -3,7 +3,7 @@
 
  [✍🏻 Blog](https://blog.luckyabner.top) · [📧 Contact](mailto:luckyabner@foxmail.com)
 ### Tech Stack
-![](https://skillicons.dev/icons?i=css,html,js,ts,py,react,next,tailwind)
+![](https://skillicons.dev/icons?i=css,html,js,ts,py,git,react,next,tailwind,vite)
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyabner&show_icons=true&theme=buefy&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyabner&layout=compact&theme=buefy&hide_border=true)|
 | ------------- | ------------- |
