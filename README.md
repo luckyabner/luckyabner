@@ -1,7 +1,7 @@
 ### Welcome to my page! 👋
 *Where the heart leads, I ask not of east or west.*
 
- [✍🏻 Blog](https://blog.luckyabner.top) · [📧 Contact](mailto:luckyabner@foxmail.com)
+ [✍🏻 Site](https://luckyabner.top) · [📧 Contact](mailto:luckyabner@foxmail.com)
 ### Tech Stack
 ![](https://skillicons.dev/icons?i=css,html,js,ts,py,git,react,next,tailwind,vite)
 
